@@ -1,0 +1,25 @@
+{
+  "name": "angel-outsourcing",
+  "version": "1.0.0",
+  "description": "Pagina Realizada para ofrecer servicios de contaduria",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Santiago-Parra22/Angel-Outsourcing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Santiago-Parra22/Angel-Outsourcing/issues"
+  },
+  "homepage": "https://github.com/Santiago-Parra22/Angel-Outsourcing#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1",
+    "tailwind": "^4.0.0"
+  }
+}
